@@ -1,0 +1,12 @@
+{
+    "name": "aeternum/dsm33",
+    "authors": [
+        {
+            "name": "Cruz Rosales",
+            "email": "crosalesc@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
